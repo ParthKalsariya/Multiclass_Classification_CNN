@@ -18,6 +18,8 @@ note: project should be run in environment which have already installed all the 
 
 I have uploaded a video u can see as a refrence
 
+https://github.com/user-attachments/assets/910de471-530e-48bb-8dfd-a2aa095b8ca7
+
 ![image](https://github.com/user-attachments/assets/ac2318d4-303f-4bf6-b2d3-c277643810fb)
 ![image](https://github.com/user-attachments/assets/223b1001-9926-44b7-9aa2-2bb5d659b573)
 
